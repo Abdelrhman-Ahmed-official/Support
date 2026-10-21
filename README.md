@@ -6,9 +6,17 @@ I design and build native applications focused on personal finance, habit contro
 
 ---
 
+## Feature Suggestions & Feedback
+
+Have an idea to make **ImpulseShield** or any of my other apps better? I would love to hear from you! 
+
+User feedback directly shapes future updates. Whether you have a feature request, an improvement idea, or thoughts on how to refine the experience, feel free to send your suggestions directly to [synapselabssupport@gmail.com](mailto:synapselabssupport@gmail.com).
+
+---
+
 ## Technical Support & Inquiries
 
-If you are experiencing technical issues, need help with app features, have privacy questions, or want to submit feedback for any of my applications, please reach out directly:
+If you are experiencing technical issues, need help with app features, or have questions about data privacy, please reach out via:
 
 * **Email Support:** [synapselabssupport@gmail.com](mailto:synapselabssupport@gmail.com)
 * **Phone Contact:** +20 101 195 2004
@@ -18,10 +26,10 @@ If you are experiencing technical issues, need help with app features, have priv
 
 ## How to Request Support
 
-When sending an email, please include the following details so I can assist you quickly:
+When reporting an issue via email, please include:
 1. **App Name & Version** (e.g., *ImpulseShield v1.0*)
 2. **Device Model & OS Version** (e.g., *iPhone 16, iOS 18* or *iPad Pro 13-inch, iPadOS 18*)
-3. **Description of the Issue:** A brief explanation (and screenshots, if applicable) of the problem or question.
+3. **Description of the Issue:** A brief explanation (and screenshots, if applicable).
 
 ---
 
